@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PZNA01_02GameBatuKertasGunting</string>
+    <string name="cpu">CPU :</string>
+    <string name="you">You</string>
+    <string name="result">RESULT</string>
 </resources>
