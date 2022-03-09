@@ -2,9 +2,7 @@ package com.roynaldi19.pzna01_02gamebatukertasgunting
 
 import kotlin.random.Random
 
-
 object Game {
-
     private val rules = mapOf(
         "ROCK-SCISSORS" to true,
         "ROCK-PAPER" to false,

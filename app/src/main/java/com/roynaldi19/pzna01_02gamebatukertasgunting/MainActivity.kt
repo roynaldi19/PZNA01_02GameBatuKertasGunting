@@ -6,7 +6,6 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
-
     lateinit var cpuImgV: ImageView
     lateinit var batuImgB: ImageButton
     lateinit var guntingImgB: ImageButton
@@ -39,7 +38,6 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
